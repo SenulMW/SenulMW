@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Senul!<br>I'm currently working on developing and publishing my own app onto the iOS AppStore!<br>I'm looking forward to collaborating with other professionals in the field to further improve my coding knowledge.<br>I'm currently learning Swift X and JavaScript.<br>I have been coding for over 5 years!<br>Feel free to check out my LinkedIn @Senul Ariyaratne<br>
+Hi, my name is Senul!<br>As a highschool student, I have interned through a FAANG-Sponsored company as an iOS App Developer, and have also interned at Premform as a fullstack developer!<br>I'm currently working on developing and publishing my own app onto the iOS AppStore!<br>I'm looking forward to collaborating with other professionals in the field to further improve my coding knowledge.<br>I'm currently learning Swift X and JavaScript.<br>I have been coding for over 5 years!<br>Feel free to check out my LinkedIn @Senul Ariyaratne<br>
 
 
 
